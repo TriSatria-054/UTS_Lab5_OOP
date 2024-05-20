@@ -16,3 +16,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![2_output_utslabpbo_054](https://github.com/TriSatria-054/UTS_Lab5_OOP/assets/69002190/e012a260-ed37-4249-8b76-79df5f2df27b)
